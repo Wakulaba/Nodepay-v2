@@ -44,7 +44,7 @@ class Nodepay:
         {Fore.GREEN + Style.BRIGHT}Auto Ping {Fore.BLUE + Style.BRIGHT}Nodepay - BOT
             """
             f"""
-        {Fore.GREEN + Style.BRIGHT}Rey? {Fore.YELLOW + Style.BRIGHT}<INI WATERMARK>
+        {Fore.BLUE + Style.BRIGHT}Telegram Channel:{Fore.YELLOW + Style.BRIGHT}https://t.me/D4rkCipherX
             """
         )
 
