@@ -2,6 +2,7 @@
 Nodepay BOT
 
 - Register Here : [Nodepay](https://app.nodepay.ai/register?ref=88pnjPEUkN9Dtxg)
+Tutorial - https://youtu.be/6AJoyQ0rEWI
 
 ## Features
 
