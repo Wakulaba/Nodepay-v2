@@ -23,7 +23,7 @@ Note: auto connects 3 connections if u using proxies and only 1 if not.
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/Nodepay-BOT.git
+   git clone https://github.com/Not-D4rkcipherX/Nodepay-v2.git
    cd Nodepay-v2
    pip install -r requirements.txt #or pip3 install -r requirements.txt
    ```
