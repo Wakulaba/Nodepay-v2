@@ -28,6 +28,29 @@ Note: auto connects 3 connections if u using proxies and only 1 if not.
    cd Nodepay-v2
    pip install -r requirements.txt #or pip3 install -r requirements.txt
    ```
+   
+## Configuration
+
+Before running the bot, you need to set up your configuration:
+
+### 1. `tokens.txt` (Required)
+
+To get your Bearer token:
+
+1. **Register for a Nodepay account**:
+   - Go to [Nodepay Registration Page](https://app.nodepay.ai/register?ref=3WZFKKi0Hbvi1sd) and sign up for an account.
+
+2. **Get your token**:
+   - Open **DevTools** in your browser (right-click > Inspect or press `Ctrl+Shift+I`).
+   - Go to the **Console** tab in DevTools.
+   - Type the following command to get your token:
+
+     ```javascript
+     localStorage.getItem('np_webapp_token')
+     ```
+
+   - This will return the Bearer token. **Copy the token** (without the `Bearer` prefix, just the alphanumeric string).
+
 
 ## Accounts Setup
 ```bash
