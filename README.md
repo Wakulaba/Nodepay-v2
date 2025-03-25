@@ -1,8 +1,7 @@
 # Nodepay BOT
 Nodepay BOT
 
-- Register Here : [Nodepay](https://app.nodepay.ai/register?ref=ydqgY3hNlgl6KaD)
-- Use Code : ydqgY3hNlgl6KaD
+- Register Here : [Nodepay](https://app.nodepay.ai/register?ref=88pnjPEUkN9Dtxg)
 
 ## Features
 
@@ -38,7 +37,7 @@ Before running the bot, you need to set up your configuration:
 To get your Bearer token:
 
 1. **Register for a Nodepay account**:
-   - Go to [Nodepay Registration Page](https://app.nodepay.ai/register?ref=3WZFKKi0Hbvi1sd) and sign up for an account.
+   - Go to [Nodepay Registration Page](https://app.nodepay.ai/register?ref=88pnjPEUkN9Dtxg) and sign up for an account.
 
 2. **Get your token**:
    - Open **DevTools** in your browser (right-click > Inspect or press `Ctrl+Shift+I`).
